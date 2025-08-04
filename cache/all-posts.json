@@ -1,5 +1,27 @@
 [
   {
+    "slug": "red-black-tree",
+    "id": "cc7eda73-12a0-40d0-83d8-7329464779a1",
+    "type": "blog",
+    "title": "红黑树详解与C++实现",
+    "author": "laplaceliu",
+    "publishDate": "2020-02-27",
+    "description": "红黑树是一种自平衡的二叉搜索树，它通过特定的规则来保持树的平衡，从而保证最坏情况下的操作时间复杂度为O(log n)。下面我将详细介绍红黑树的性质和操作，并使用现代C++（使用智能指针）实现它。",
+    "categories": [
+      "数据结构与算法"
+    ],
+    "order": 3,
+    "tags": [
+      "C++",
+      "算法",
+      "红黑树",
+      "数据结构"
+    ],
+    "image": null,
+    "draft": false,
+    "relatedPosts": []
+  },
+  {
     "slug": "sample",
     "id": "cc7eda73-12a0-40d0-83d8-7329464779a1",
     "type": "blog",
