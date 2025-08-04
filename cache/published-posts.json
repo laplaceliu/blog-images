@@ -1,10 +1,23 @@
 [
   {
     "slug": "sample",
+    "id": "cc7eda73-12a0-40d0-83d8-7329464779a1",
+    "type": "blog",
     "title": "MDX 功能全面展示",
-    "publishDate": "2025-08-04",
+    "author": "O. Wolfson",
+    "publishDate": "2025-02-27",
     "description": "这篇文章展示了MDX的所有主要功能和用法",
-    "category": "技术教程",
-    "order": 3
+    "categories": [
+      "技术教程"
+    ],
+    "order": 3,
+    "tags": [
+      "accordion",
+      "shadcn"
+    ],
+    "modifiedDate": "2025-04-27T22:07:30.693Z",
+    "image": null,
+    "draft": false,
+    "relatedPosts": []
   }
 ]

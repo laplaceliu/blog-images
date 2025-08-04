@@ -10,7 +10,7 @@ Disallow: /page/create/*
 Disallow: /page/edit/*
 
 # Host
-Host: https://www.mdxblog.io/
+Host: http://localhost:3000
 
 # Sitemaps
-Sitemap: https://www.mdxblog.io/sitemap.xml
+Sitemap: http://localhost:3000/sitemap.xml
